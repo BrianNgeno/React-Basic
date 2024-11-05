@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "location": "Nairobi",
+      "email": "john@moringaschool.com",
+      "username": "john_doe"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "location": "Dubai",
+      "email": "jane@moringaschool.com",
+      "username": "jane"
+    },
+    {
+      "id": "3",
+      "name": "Steve Jobs",
+      "location": "Somali",
+      "email": "steve@moringaschool.com",
+      "username": "steve"
+    },
+    {
+      "id": "3c9b",
+      "username": "audrey_moraa",
+      "name": "Audrey  moraa",
+      "email": "audrey@moringaschool.com",
+      "location": "Nairobi"
+    }
+  ]
+}
